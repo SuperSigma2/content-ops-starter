@@ -59,17 +59,6 @@
                     "type": "Link"
                 },
                 {
-                    "type": "Link",
-                    "label": "Play",
-                    "altText": "Play",
-                    "url": "/now.gg",
-                    "showIcon": true,
-                    "icon": "play",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
