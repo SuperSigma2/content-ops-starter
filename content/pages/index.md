@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Award winning enterprises trust
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
